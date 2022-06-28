@@ -1,5 +1,0 @@
-require("Storage").write("interfastingtimer.info",{
-  "id":"interfastingtimer",
-  "name":"Intermittent Fasting Timer",
-  "src":"interfastingtimer.app.js"
-});

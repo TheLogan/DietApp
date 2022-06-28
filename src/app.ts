@@ -1,3 +1,4 @@
+import { SettingsScreen } from './settingsScreen'
 /*
 * Features
 * Start times
@@ -6,7 +7,9 @@
 * Permanent face icon (can eat or only water)
 */
 
-
+const start = async () => {
+  let settings = new SettingsScreen();
+}
 
 // const myAsync = async () => {
 //   const {hello, world} = {hello: 'hello', world: 'world'};
